@@ -31,10 +31,10 @@ Exemple:
 - Naître (Sofiane)
 ## Tâches à faire
 ### Tâches à faire précédemment cités
+- Naître (Dorian + Anthony)
+### Tâches à faire ajoutés lors de cette séance
 - Apprendre à parler (Sofiane)
 - Apprendre à marcher (Sofiane)
-### Tâches à faire ajoutés lors de cette séance
-- Naître (Dorian + Anthony)
 ## Notes
 Cette naissance fut très douloureuse. (Sofiane)  
 Je suis impatient de naître! (Anthony)  

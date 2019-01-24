@@ -36,5 +36,5 @@ Exemple:
 - Naître (Dorian + Anthony)
 ## Notes
 Cette naissance fut très douloureuse. (Sofiane)  
-Je suis impatient de naître! (Anthony)
+Je suis impatient de naître! (Anthony)  
 Je veux rester ici. (Dorian)

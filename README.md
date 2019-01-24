@@ -23,7 +23,7 @@ Etc.
 
 Exemple:
 
-# Rapport du 01/01/2001
+# Rapport du 01/01/2001 (Exemple)
 ## Absents
 - Anthony
 - Dorian

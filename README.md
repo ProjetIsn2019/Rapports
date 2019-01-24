@@ -2,7 +2,7 @@
 Ici se trouvent les rapports de nos séances d'ISN.  
 Voilà la template que nous utilisons (markdown) pour les rapports en fin de séance:  
 
-Titre du rapport: jour-mois-année (Ex: `24-01-2019`)
+Titre du rapport: jour-mois-année + .md (Ex: `24-01-2019.md`)
 ```markdown
 # Rapport du xx/xx/xxxx
 ## Absents

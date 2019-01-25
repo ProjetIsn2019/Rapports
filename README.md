@@ -1,8 +1,11 @@
 # Rapports
+**Note:** *Il suffit de cliquer sur un rapport d'une certaine date pour l'afficher.  
+Les rapports sont "codés" en markdown (Mise en forme simple)*
+
 Ici se trouvent les rapports de nos séances d'ISN.  
 Voilà la template que nous utilisons (markdown) pour les rapports en fin de séance:  
 
-Titre du rapport: jour-mois-année + .md (Ex: `24-01-2019.md`)
+Titre du rapport: jour-mois-année(-numéro du rapport) + .md (Ex: `24-01-2019.md`, `24-01-2019-2.md`)
 ```markdown
 # Rapport du xx/xx/xxxx
 ## Absents

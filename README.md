@@ -1,6 +1,7 @@
 # Rapports
 **Note:** *Il suffit de cliquer sur un rapport d'une certaine date pour l'afficher.  
-Les rapports sont "codés" en markdown (Mise en forme simple)*
+Les rapports sont "codés" en markdown (Mise en forme simple)*  
+**Note 2:** *Les images du dossier images sont juste là pour accompagner les fichiers rapports, elles ne sont pas "à ouvrir" directement*.
 
 Ici se trouvent les rapports de nos séances d'ISN.  
 Voilà la template que nous utilisons (markdown) pour les rapports en fin de séance:  

@@ -13,9 +13,9 @@ Créer un RPG (en 2D) avec Pygame.
 - Charger qqch: Le stocker sous forme d'image/Le faire apparaître sur l'écran
 - Tileset: Regroupement de plusieurs sprites/tuiles destinées à être séparés.
 ## Logiciels
-- [Pygame](https://www.pygame.org)
-- [Piskel](http://piskelapp.com)
-- [Tiled](https://thorbjorn.itch.io/tiled)
+- [Pygame](https://www.pygame.org) (Librairie Python)
+- [Piskel](http://piskelapp.com) (Découper/Séparer des tilesets)
+- [Tiled](https://thorbjorn.itch.io/tiled) (Créer des map à partir de tuiles)
 ## Sources
 - Tuiles:
     - [https://opengameart.org/content/the-field-of-the-floating-islands](https://opengameart.org/content/the-field-of-the-floating-islands)

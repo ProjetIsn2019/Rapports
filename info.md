@@ -38,13 +38,13 @@ Créer un RPG (en 2D) avec Pygame.
     - LICENSE (Fichier de license pour couvrir le support et les droits)
     - README.md (Fichier explicatif)
 ## Questions - Réponses
-- Comment nous chargeons une map ?
+### Comment nous chargeons une map ?
 Une map n'est pas une image, c'est en réalité un assemblement de tuiles trouvables dans le dossier images/tuiles/.  
 Ces dernières sont assemblés de façon à respecter le motif de la map trouvable dans le dossier map/.
-- Comment afficheons-nous des animations ?
+### Comment afficheons-nous des animations ?
 Un personnage possède un compteur. Le compteur est incrémenté chaque tick.  
 Lorsque le compteur atteint le max défini dans nos constantes, nous passons à la frame suivante et le compteur est réinitialisé.
-- Comment sont fait les déplacements ?
+### Comment sont fait les déplacements ?
 Les déplacements sont en réalité juste une prise en charge des évènements.
 Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se déclenche et nous vérifions si cette touche est dans nos constantes afin de déclencher l'animation.
 ## Logiciels

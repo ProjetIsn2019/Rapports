@@ -18,7 +18,7 @@ Créer un RPG (en 2D) avec Pygame.
 - **Charger qqch:** Le stocker sous forme d'image/Le faire apparaître sur l'écran
 - **Tileset:** Regroupement de plusieurs sprites/tuiles destinées à être séparés.
 ## Structure du projet
-- [Ethynd](https://github.com/ProjetIsn2019/Ethynd)
+- **[Ethynd](https://github.com/ProjetIsn2019/Ethynd)**
     - **classes** (Contient les objets utilisés pour le projet)
         - **joueur.py** (Contient les fonctions relatives au joueur)
         - **mapping.py** (Contient les fonctions relatives a la création de map)

@@ -17,6 +17,8 @@ Créer un RPG (en 2D) avec Pygame.
 - **CSV:** Format de stockage d'une map
 - **Charger qqch:** Le stocker sous forme d'image/Le faire apparaître sur l'écran
 - **Tileset:** Regroupement de plusieurs sprites/tuiles destinées à être séparés.
+- **Collisions:** Le fait que certain éléments stoppent la progression du joueur
+- **Hitbox:** Zone sensible d'un élément de jeu aux attaques et collisions
 ## Structure du projet
 - **[Ethynd](https://github.com/ProjetIsn2019/Ethynd)**
     - **classes** (Contient les objets utilisés pour le projet)

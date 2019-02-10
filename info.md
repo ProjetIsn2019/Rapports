@@ -59,3 +59,5 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
     - [https://opengameart.org/content/the-field-of-the-floating-islands](https://opengameart.org/content/the-field-of-the-floating-islands)
 - Sprites:
     - [https://opengameart.org/content/2d-complete-characters](https://opengameart.org/content/2d-complete-characters)
+- Musiques/Sons:
+    - [https://freesound.org/people/LittleRobotSoundFactory/packs/16687/](https://freesound.org/people/LittleRobotSoundFactory/packs/16687/)

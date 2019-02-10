@@ -19,6 +19,7 @@ Créer un RPG (en 2D) avec Pygame.
 - **Tileset:** Regroupement de plusieurs sprites/tuiles destinées à être séparés.
 - **Collisions:** Le fait que certain éléments stoppent la progression du joueur
 - **Hitbox:** Zone sensible d'un élément de jeu aux attaques et collisions
+- **Masque:** Objet que l'on met par dessus un rectangle pygame afin de créer des collisions basées sur la transparence des images
 ## Structure du projet
 - **[Ethynd](https://github.com/ProjetIsn2019/Ethynd)**
     - **classes** (Contient les objets utilisés pour le projet)

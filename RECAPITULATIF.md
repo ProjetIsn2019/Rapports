@@ -1,6 +1,7 @@
 # Récapitulatif + Informations sur notre projet.
 ## But du projet
-Créer un RPG (en 2D) avec Pygame. Nous utiliserons des ressources trouvées sur internet. 
+Créer un **RPG (en 2D) avec Pygame**.  
+Nous utiliserons des ressources **libres, prévues pour,** trouvées sur internet. 
 ## Vocabulaire
 - **Ethynd:** Nom du RPG (Généré aléatoirement)
 - **Repo:** Un dossier sur Github contenant 1 projet

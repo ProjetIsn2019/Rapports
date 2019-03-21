@@ -21,3 +21,11 @@
 - Choisir les sons et bruitages à ajouter au projet (Anthony)
 - Créer des tuiles animés (Sofiane)
 - Faire un menu (Anthony)
+
+## Sources 
+- [Piskel](https://www.piskelapp.com/) (Gérer/Modifier les sprites)
+- [Google image](https://www.google.fr/imghp) (Recherche d'images libres)
+- [Tuiles de jeu](https://opengameart.org/content/zelda-like-tilesets-and-sprites) (Tuiles de la map)
+- [Tiled](https://www.mapeditor.org/) (Assembler les tuiles et créer les matrices)
+- [Youtube](https://www.youtube.com/) (Recherche de musiques libres)
+- [Créer un bouton en ligne](https://dabuttonfactory.com/fr/)

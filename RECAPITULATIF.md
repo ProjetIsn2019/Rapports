@@ -1,7 +1,8 @@
 # Récapitulatif + Informations sur notre projet.
 ## But du projet
 Créer un **RPG (en 2D) avec Pygame**.  
-Nous utiliserons des ressources **libres, prévues pour,** trouvées sur internet. 
+Nous utiliserons des ressources **libres, prévues pour,** trouvées sur internet.
+
 ## Vocabulaire
 - **Ethynd:** Nom du RPG (Généré aléatoirement)
 - **Repo:** Un dossier sur Github contenant 1 projet
@@ -20,6 +21,7 @@ Nous utiliserons des ressources **libres, prévues pour,** trouvées sur interne
 - **Collisions:** Le fait que certain éléments stoppent la progression du joueur
 - **Hitbox:** Zone sensible d'un élément de jeu aux attaques et collisions
 - **Masque:** Objet que l'on met par dessus un rectangle pygame afin de créer des collisions basées sur la transparence des images
+
 ## Structure du projet
 - **[Ethynd](https://github.com/ProjetIsn2019/Ethynd)**
     - **classes** (Contient les objets utilisés pour le projet)
@@ -75,10 +77,11 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
 - Faire un menu (Anthony)
 
 ## Sources 
-- [Pygame](https://www.pygame.org) (Librairie Python)
+- [Pygame](https://www.pygame.org) (Librairie Python "Pygame" + Documentation)
 - [Piskel](https://www.piskelapp.com/) (Gérer/Modifier les sprites)
 - [Google image](https://www.google.fr/imghp) (Recherche d'images libres)
 - [Tuiles de jeu](https://opengameart.org/content/zelda-like-tilesets-and-sprites) (Tuiles de la map)
 - [Tiled](https://www.mapeditor.org/) (Assembler les tuiles et créer les matrices)
 - [Youtube](https://www.youtube.com/) (Recherche de musiques libres)
 - [Créer un bouton en ligne](https://dabuttonfactory.com/fr/) (Créer les 3 boutons du menu)
+- [Documentation Python](https://docs.python.org/fr/3/) (Documentation de Python)

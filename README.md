@@ -1,5 +1,5 @@
 # Rapports
-**Note:** *Il suffit de cliquer sur un rapport d'une certaine date pour l'afficher.  
+**Note:** *Il suffit de cliquer sur un rapport d'une certaine date dans le fichier "rapports" pour l'afficher.  
 Les rapports sont "codés" en markdown (Mise en forme simple) + il y a un fichier [RECAPITULATIF.md](https://github.com/ProjetIsn2019/Rapports/blob/master/RECAPITULATIF.md) pour clarifier le projet*  
 **Note 2:** *Les images du dossier images sont juste là pour accompagner les fichiers rapports, elles ne sont pas "à ouvrir" directement.*
 

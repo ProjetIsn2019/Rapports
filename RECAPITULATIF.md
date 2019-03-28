@@ -66,15 +66,15 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
 - Faire une map de test en 4 couches (Anthony)
 - Coder les deplacement du personnage (Dorian)
 - Trouver un générateur de map (Anthony & Sofiane)
+- Musiques (Anthony)
+- Classe ennemi (Dorian)
+- Menu (Anthony)
 
 ## Tâches à faire
-- Classe ennemi (Dorian)
-- Améliorer collisions (Sofiane / Dorian)
-- Musiques/Histoire/Créer les maps (Aved Tiled) et téléportations (Anthony)
-- Calquer les fichiers en python sous forme d'algorithme (Anthony)
+- Histoire (Anthony)
 - Choisir les sons et bruitages à ajouter au projet (Anthony)
 - Créer des tuiles animés (Sofiane)
-- Faire un menu (Anthony)
+- S'occuper de l'attaque et des animations (Dorian)
 
 ## Sources 
 - [Pygame](https://www.pygame.org) (Librairie Python "Pygame" + Documentation)

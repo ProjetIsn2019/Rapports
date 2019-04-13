@@ -85,3 +85,4 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
 - [Youtube](https://www.youtube.com/) (Recherche de musiques libres)
 - [Créer un bouton en ligne](https://dabuttonfactory.com/fr/) (Créer les 3 boutons du menu)
 - [Documentation Python](https://docs.python.org/fr/3/) (Documentation de Python)
+- [Musique utilisée](https://www.youtube.com/watch?v=42Yw2Llnwzw) (Utilisation autorisée dans le cadre du "fair use" : projet scolaire)

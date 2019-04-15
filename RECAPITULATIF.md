@@ -82,6 +82,8 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
 - [Google image](https://www.google.fr/imghp) (Recherche d'images libres)
 - [Tuiles de jeu](https://opengameart.org/content/zelda-like-tilesets-and-sprites) (Tuiles de la map)
 - [Tiled](https://www.mapeditor.org/) (Assembler les tuiles et créer les matrices)
+- [GIMP](https://www.gimp.org) (Créer les images d'aide et de menu)
+- [Audacity](https://audacity.fr/) (Découper les effet trouvés sur internet)
 - [Youtube](https://www.youtube.com/) (Recherche de musiques libres)
 - [Créer un bouton en ligne](https://dabuttonfactory.com/fr/) (Créer les 3 boutons du menu)
 - [Documentation Python](https://docs.python.org/fr/3/) (Documentation de Python)

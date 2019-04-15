@@ -87,3 +87,4 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
 - [Documentation Python](https://docs.python.org/fr/3/) (Documentation de Python)
 - [Musique 1](https://www.youtube.com/watch?v=42Yw2Llnwzw) (Utilisation autorisée dans le cadre du "fair use" : projet scolaire)
 - [Musique 2](https://www.youtube.com/watch?v=tlMZWKMpOn0) (Utilisation autorisée dans le cadre du "fair use" : projet scolaire)
+- [Effet Spéciaux](https://www.youtube.com/watch?v=nzjtkaLCn60) (Utilisation autorisée à condition de créditer l'auteur dans les sources)

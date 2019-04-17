@@ -21,6 +21,7 @@ Nous utiliserons des ressources **libres, prévues pour,** trouvées sur interne
 - **Collisions:** Le fait que certain éléments stoppent la progression du joueur
 - **Hitbox:** Zone sensible d'un élément de jeu aux attaques et collisions
 - **Masque:** Objet que l'on met par dessus un rectangle pygame afin de créer des collisions basées sur la transparence des images
+- **Timing:** Tout ce qui est en rapport avec le temps
 
 ## Structure du projet
 - **[Ethynd](https://github.com/ProjetIsn2019/Ethynd)**

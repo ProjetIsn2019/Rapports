@@ -98,4 +98,4 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
 - [Musique 3](https://www.youtube.com/watch?v=ox_T5Ia_Y0A) (Utilisation autorisée a condition de citer la source (dci noot
 ) et que le projet ne soit pas a but lucratif) 
 - [Effet Spéciaux](https://www.youtube.com/watch?v=nzjtkaLCn60) (Utilisation autorisée à condition de créditer l'auteur dans les sources)
-- [Autres effets spéciaux](https://freesound.org/) (Utilisation autorisée
+- [Autres effets spéciaux](https://freesound.org/) (Utilisation autorisée)

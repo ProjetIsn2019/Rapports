@@ -20,8 +20,9 @@ Nous utiliserons des ressources **libres, prévues pour,** trouvées sur interne
 - **Tileset:** Regroupement de plusieurs sprites/tuiles destinées à être séparés.
 - **Collisions:** Le fait que certain éléments stoppent la progression du joueur
 - **Hitbox:** Zone sensible d'un élément de jeu aux attaques et collisions
-- **Masque:** Objet que l'on met par dessus un rectangle pygame afin de créer des collisions basées sur la transparence des images
-- **Timing:** Tout ce qui est en rapport avec le temps
+- **Masque:** Objet que l'on met par dessus un rectangle pygame afin de créer des collisions basées sur la transparence
+- **Timing(s):** Tout ce qui est en rapport avec le temps.
+- **Markdown:** Langage de balisage utilisé pour faire nos rapports.
 
 ## Structure du projet
 - **[Ethynd](https://github.com/ProjetIsn2019/Ethynd)**

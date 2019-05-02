@@ -82,6 +82,7 @@ Lorsque vous appuyez sur la touche "gauche", l'évent "touche appuyé" se décle
 - Créer des tuiles animés (Sofiane)
 - S'occuper de l'attaque et des animations (Dorian)
 - Téléportations d'une map à l'autre (Anthony & Sofiane)
+- Création des maps des téléportions (Anthony)
 - Contenu du site (Anthony)
 
 
